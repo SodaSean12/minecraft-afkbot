@@ -1,14 +1,12 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "sg.mcfallout.net",
     "port": 25565,
-    "version": "1.19.3"
+    "version": "1.18.2"
   },
 
   "position": {
